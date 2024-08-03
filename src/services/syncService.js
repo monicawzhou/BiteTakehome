@@ -16,7 +16,6 @@ async function syncMenu(locationId) {
     );
     const { sections, items, modGroups, mods, discounts, orderTypes } =
       response.data;
-    console.log(sections);
 
     await Section.insertMany(sections);
 
