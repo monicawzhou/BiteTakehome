@@ -1,0 +1,89 @@
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"_message":"Item validation failed","errors":{"modGroupIds":{"kind":"string","message":"Cast to string failed for value \"[]\" (type Array) at path \"modGroupIds\"","name":"CastError","path":"modGroupIds","reason":null,"stringValue":"\"[]\"","value":[],"valueType":"Array"}},"level":"error","message":"Error syncing menu: Item validation failed: modGroupIds: Cast to string failed for value \"[]\" (type Array) at path \"modGroupIds\"","stack":"ValidationError: Item validation failed: modGroupIds: Cast to string failed for value \"[]\" (type Array) at path \"modGroupIds\"\n    at Document.invalidate (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:3318:32)\n    at model.$set (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:1474:12)\n    at model.$set (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:1128:16)\n    at model.Document (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:177:12)\n    at model.Model (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/model.js:124:12)\n    at new model (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/model.js:4549:15)\n    at Array.<anonymous> (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/model.js:2869:17)\n    at _start (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/helpers/parallelLimit.js:27:37)\n    at parallelLimit (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/helpers/parallelLimit.js:23:5)\n    at Model.$__insertMany (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/model.js:2900:3)"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"_message":"Discount validation failed","errors":{"rate":{"kind":"user defined","message":"1 is not a valid discount rate. It should be less than 1.","name":"ValidatorError","path":"rate","properties":{"message":"1 is not a valid discount rate. It should be less than 1.","path":"rate","type":"user defined","value":1},"value":1}},"level":"error","message":"Error syncing menu: Discount validation failed: rate: 1 is not a valid discount rate. It should be less than 1.","stack":"ValidationError: Discount validation failed: rate: 1 is not a valid discount rate. It should be less than 1.\n    at Document.invalidate (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"Error syncing menu: Mod is not defined","stack":"ReferenceError: Mod is not defined\n    at syncMenu (/Users/monicazhou/Desktop/Bite_Takehome/src/services/syncService.js:27:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"code":11000,"errorResponse":{"code":11000,"message":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c15475c196a9942dcf3","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]},"insertedDocs":[],"level":"error","message":"Error syncing menu: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","result":{"deletedCount":0,"insertedCount":0,"insertedIds":{},"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedIds":{}},"stack":"MongoBulkWriteError: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }\n    at OrderedBulkOperation.handleWriteError (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:826:22)\n    at resultHandler (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:303:27)\n    at /Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:346:116\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c15475c196a9942dcf3","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"code":11000,"errorResponse":{"code":11000,"message":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c5f62c733cad39723d7","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]},"insertedDocs":[],"level":"error","message":"Error syncing menu: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","result":{"deletedCount":0,"insertedCount":0,"insertedIds":{},"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedIds":{}},"stack":"MongoBulkWriteError: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }\n    at OrderedBulkOperation.handleWriteError (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:826:22)\n    at resultHandler (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:303:27)\n    at /Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:346:116\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c5f62c733cad39723d7","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"code":11000,"errorResponse":{"code":11000,"message":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c6d42d0be32b851fcbc","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]},"insertedDocs":[],"level":"error","message":"Error syncing menu: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","result":{"deletedCount":0,"insertedCount":0,"insertedIds":{},"matchedCount":0,"modifiedCount":0,"upsertedCount":0,"upsertedIds":{}},"stack":"MongoBulkWriteError: E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }\n    at OrderedBulkOperation.handleWriteError (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:826:22)\n    at resultHandler (/Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:303:27)\n    at /Users/monicazhou/Desktop/Bite_Takehome/node_modules/mongodb/lib/bulk/common.js:346:116\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","writeErrors":[{"err":{"code":11000,"errmsg":"E11000 duplicate key error collection: bitekiosk.mods index: id_1 dup key: { id: \"1\" }","index":0,"op":{"__v":0,"_id":"66ae8c6d42d0be32b851fcbc","id":"1","modGroupIds":[],"name":"Lettuce","price":0}},"index":0}]}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
+{"level":"info","message":"Menu sync completed successfully"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Mongo connection successful!"}
