@@ -5,8 +5,11 @@ This application uses MongoDB, please have MongoDB installed on your local machi
 ## Installation
 
 1. Clone the repo
+
    git clone https://github.com/monicawzhou/BiteTakehome.git
+   
    cd BiteTakehome
 
 run 'npm install'
+
 run 'nodemon src/app.js' (or 'node src/app.js' if you don't have nodemon)
